@@ -8,27 +8,27 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ashraful Islam Paran"
+title                    : "Md. Sajid Alam Chowdhury"
 title_separator          : "-"
-name                     : &name "Ashraful Islam Paran"
-description              : &description "CS Undergraduate at CUET with a focus on NLP and multimodal analysis."
-url                      : "https://ashrafulparan2.github.io" # Change to your GitHub Pages URL
+name                     : &name "Md. Sajid Alam Chowdhury"
+description              : &description "Studying Computer Science at CUET with a focus on Natural Language Processing and Computer Vision."
+url                      : "https://Sajid064.github.io/" # Change to your GitHub Pages URL
 baseurl                  : "" 
-repository               : "ashrafulparan/ashrafulparan2.github.io" # Change to your repository
+repository               : "Sajid064/Sajid064.github.io" # Change to your repository
 
 # Site Author
 author:
-  avatar                 : "ashrafulparan.jpg"
-  name                   : "Ashraful Islam Paran"
+  avatar                 : "sajidchowdhury.jpg"
+  name                   : "Md. Sajid Alam Chowdhury"
   bio                    : ""
-  location               : "Chittagong, Bangladesh"
-  employer               : "Chittagong University of Engineering and Technology"
-  email                  : "u1904029@student.cuet.ac.bd" 
+  location               : "Dhaka, Bangladesh"
+  employer               : "Chittagong University of Engineering and Technology (CUET)"
+  email                  : "sajid.chowdhury009@gmail.com" 
 
   # Academic and professional profiles
-  googlescholar          : "https://scholar.google.com/citations?user=v2DY9G0AAAAJ&hl=en"
-  github                 : "ashrafulparan2"
-  linkedin               : "ashrafulparan"  # Your LinkedIn username
+  googlescholar          : "https://scholar.google.com/citations?hl=en&authuser=1&user=HwhiMM8AAAAJ"
+  github                 : "Sajid064"
+  linkedin               : "md-sajid-alam-chowdhury"  # Your LinkedIn username
   # twitter                : "ashrafulparan"  # Your Twitter handle
 
 # Analytics
@@ -47,10 +47,10 @@ google_site_verification : "YOUR_VERIFICATION_CODE"
 # Social Profiles
 social:
   type                   : "Person"
-  name                   : "Ashraful Islam Paran"
+  name                   : "Md. Sajid Alam Chowdhury"
   links:
-    - "https://github.com/ashrafulparan2"
-    - "https://linkedin.com/in/ashrafulparan"
+    - "https://github.com/Sajid064"
+    - "https://www.linkedin.com/in/md-sajid-alam-chowdhury/"
     # - "https://twitter.com/ashrafulparan"
 
 # Site Settings
