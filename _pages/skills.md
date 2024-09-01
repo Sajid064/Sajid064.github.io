@@ -21,7 +21,7 @@ Solved more than 2000 problems in various online platforms as part of my prepara
 
 <pre>
 <span style="color:rgb(201, 76, 76)">Codeforces</span>     Handle: Sajid064, Max Rating: 1607 (Expert), Solve Count: 1000+ 
-<span style="color:rgb(201, 76, 76)">CodeChef</span>            Handle: sajid_064, Max Rating: 2039 (5-Star), Solve Count: 100+ 
+<span style="color:rgb(201, 76, 76)">CodeChef</span>       Handle: sajid_064, Max Rating: 2039 (5-Star), Solve Count: 100+ 
 <span style="color:rgb(201, 76, 76)">AtCoder</span>        Handle: Sajid064, Max Rating: 926 (6-Kyu), Solve Count: 300+ 
 <span style="color:rgb(201, 76, 76)">LightOJ</span>        Handle: sajid064, Solve Count: 50+
 </pre>
