@@ -23,15 +23,11 @@ redirect_from:
 
 <p align="justify">
 
-I am a final-year Computer Science undergraduate at CUET. I am passionate about exploring new technologies, with a focus on Computer Vision, Natural Language Processing (NLP), Digital Image Processing, and particularly research in adversarial attacks and defense mechanisms.
-
+I am a final-year Computer Science undergraduate at CUET, where I am pursuing my B.Sc. in Computer Science and Engineering under the supervision of <a href="https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en"> Dr. Kaushik Deb </a>. I am passionate about exploring new technologies, with a particular focus on Computer Vision, Natural Language Processing (NLP), and Digital Image Processing. My research centers on detecting and mitigating adversarial attacks, a critical area that aims to enhance the robustness and security of machine learning models.
 </p> 
  <!---
  I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
 -->
-<p align="justify">
-I am pursuing my B.Sc. in Computer Science and Engineering at CUET under the supervision of <a href="https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en"> Dr. Kaushik Deb </a>. My research centers on understanding and mitigating adversarial attacks, a critical area in ensuring the robustness and security of machine learning models.
-</p>
 
 <p>
 In addition to my research, I have strong skills in computer programming, with proficiency in C, C++, Python, Flutter, and LaTeX. I have actively participated in competitive programming, including ICPC, IUPC, and various national-level contests, which has further developed my problem-solving abilities. Through my academic and extracurricular projects, I have also gained valuable communication and planning skills, enabling me to collaborate effectively in group settings.
