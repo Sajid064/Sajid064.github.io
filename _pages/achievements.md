@@ -8,20 +8,20 @@ permalink: /achievements/
 
 ### International
 
-- **4th Place**: CLEF 2024 ‑ CheckThat! Lab Task 2, Grenoble, France (2024)
-- **5th Place**: CLEF 2024 ‑ CheckThat! Lab Task 1, Grenoble, France (2024)
-- **5th Place**: AraFinNLP SharedTask 2024 (Subtask 1 ‑ Multi‑dialect Intent Detection), Bangkok, Thailand (2024)
-- **6th Place**: ArAIEval: Propagandistic Techniques Detection in Unimodal and Multimodal Arabic Content, Bangkok, Thailand (2024)
-- **11th Place**: SemEval‑2024 Task 1, Mexico City, Mexico (2024)
-- **Gold Honour**: International Youth Math Challenge (IYMC) (2019)
-- **Finalist**: International Youth Math Challenge (IYMC) (2018)
+- **7th Position**, CLEF 2024 - CheckThat! Lab Task 1: Check-Worthiness Estimation, Grenoble, France (2024)
+- **7th Position**, AraFinNLP 2024 - Subtask 1: Multi-dialect Intent Detection, Bangkok, Thailand (2024)
+- **25th Position**, SemEval 2024 - Subtask 1: Semantic Textual Relatedness, Mexico City, Mexico (2024)
+- **3rd Position**, CodeChef Starters 26 Division 4, India (2023)
+- **13th Position**, CodeChef Starters 33 Division 3, India (2023)
+- **28th Position**, CodeChef Starters 88 Division 2, India (2023)
 
 ### Domestic
 
-- **5th Place**: IUT ICT Fest 2024 Datathon: ASR for Regional Dialects, Dhaka, Bangladesh (2024)
-- **19th Place**: Code Samurai Hackathon 2022, Dhaka, Bangladesh (2022)
-- **CUET Ex-students merit award**: For obtaining highest GPA in an academic year (2023)
-- **99th Place**: International Collegiate Programming Contest (ICPC), Dhaka Regional, Dhaka, Bangladesh (2023)
-- **Honorable Mention**: International Collegiate Programming Contest (ICPC), Preliminary, Dhaka, Bangladesh (2022)
-- **Honorable Mention**: International Collegiate Programming Contest (ICPC), Preliminary, Dhaka, Bangladesh (2021)
-- **Technical scholarship** : To get position among top 50% students in the class (2020-2024)
+- **Talent Pool Scholarship (81st Position)**, Secondary School Certificate Examination, Dhaka, Bangladesh (2017)
+- **Champion**, CUET Intra Junior Contest (Round 1), Chittagong, Bangladesh (2020)
+- **2nd Runner up**, CUET Intra Junior Contest (Round 2), Chittagong, Bangladesh (2021)
+- **4th Position** CUET Intra Junior Contest (Round 3), Chittagong, Bangladesh (2022)
+- **4th Position**, ASRRO ROBOCODER Programming Contest (Round 1), Chittagong, Bangladesh (2022)
+- **99th Position**, International Collegiate Programming Contest (ICPC): Dhaka Regional, Dhaka, Bangladesh (2022)
+- **Honorable Mention x4**, International Collegiate Programming Contest (ICPC): Preliminary, Dhaka, Bangladesh (2020-2023)
+- **Technical Scholarship x6**, For academic excellence in the class, Chittagong, Bangladesh (2020-2024)
