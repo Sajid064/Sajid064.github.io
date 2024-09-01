@@ -15,7 +15,7 @@ permalink: /skills/
 <span style="color:rgb(201, 76, 76)">Tools</span>         Jupyter, Git, LaTeX, VS Code
 </pre>
 
-## Competitive Programming
+# Competitive Programming
 
 Solved more than 2000 problems in various online platforms as part of my preparation for onsite proramming contests such as ICPC, IUPC, NCPC, etc.
 
