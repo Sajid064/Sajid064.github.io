@@ -1,5 +1,5 @@
 ---
-title: 'Certifications'
+title: 'Others'
 excerpt: ''
 author_profile: true
 permalink: /misc/
@@ -8,16 +8,19 @@ permalink: /misc/
 
 <!-- ##  -->
 
-### Deep Learning Specialization
-*Coursera & Deeplearning.AI(2024)*  
-- Acquired fundamental knowledge in deep learning, covering CNNs, RNNs, LSTMs, optimization techniques like Adam, Dropout, BatchNorm, Xavier/He initialization, and other methods crucial for successful deep learning projects.
-- Conducted practical case studies in autonomous driving, sign language interpretation, music generation, and natural language processing using TensorFlow and Python.
+### Convolutional Neural Networks
+*Deeplearning.AI (Mar 2024)*  
+- Gained proficiency in TensorFlow and Keras for building CNN models
+- Learned key CNN layers: Convolution, Pooling, Fully Connected
+- Explored advanced architectures like ResNets and Inception
+- Applied CNNs to image classification, object detection, and segmentation
 
-### Machine Learning Specialization
-*Coursera & Deeplearning.AI(2023)* 
-- Acquired foundational understanding of machine learning concepts such as regression, classification, and clustering.
-- Explored advanced algorithms like neural networks, support vector machines (SVM), and ensemble methods.
-- Applied machine learning techniques to real-world datasets, implementing projects in domains like finance and healthcare.
+### Neural Networks and Deep Learning
+*Deeplearning.AI (Mar 2024)* 
+- Mastered the basics of neural networks, including forward and backward propagation
+- Implemented gradient descent and optimization algorithms and explored activation functions like ReLU, sigmoid, and tanh
+- Built and trained deep neural networks for various tasks
+- Applied concepts such as regularization, dropout, and hyperparameter tuning
 
 
 ## Extracurricular Activities
