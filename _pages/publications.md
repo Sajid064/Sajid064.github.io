@@ -12,8 +12,6 @@ My broad research interests lie in the fields of Computer Vision and Natural Lan
 <!-- - Cross-Modal Learning, Integrating Visual, Textual, and Acoustic Data for Advanced AI Systems -->
 
 <br>
-<br>
-<br>
 # Publications
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=HwhiMM8AAAAJ">my Google Scholar profile</a>.</div>
