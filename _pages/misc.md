@@ -7,6 +7,7 @@ permalink: /misc/
 
 
 <!-- ##  -->
+## Certifications
 
 ### Convolutional Neural Networks
 *Deeplearning.AI (Mar 2024)*  
