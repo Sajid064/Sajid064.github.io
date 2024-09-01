@@ -37,5 +37,5 @@ In addition to my research, I have strong skills in computer programming, with p
 -->
 <b>Contact: 📧</b> [<font color= "#990033" >sajid.chowdhury009@gmail.com</font>](sajid.chowdhury009@gmail.com)
 
-<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1cTK0fQgOF75dPFupNpO2_FB3tliA0yTY/view?usp=sharing"><font color="#990033">CV</font></a>]
+<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1Io2HW0OqdyXFOEljpsFTjeg_RLQ1a_EX/view?usp=sharing"><font color="#990033">CV</font></a>]
 
