@@ -20,20 +20,32 @@ permalink: /misc/
 - Applied machine learning techniques to real-world datasets, implementing projects in domains like finance and healthcare.
 
 
-## Extracurricular Activity
+## Extracurricular Activities
 
-### CUET Computer Club
-**Executive Member**  (*2020 – Present*)
-- Gained expertise in competitive programming.
-- Participated in many onsite programming contests.
-- Organized several programming competitions.
+### Executive Member
+**CUET Computer Club**  (*2020 – Present*)
+- Gained expertise in competitive programming
+- Participated in many onsite programming contests
+- Organized several programming competitions
 
-### Josephite Math Club
-**Assistant General Secretary**  (*2017 – 2019*)
-- Held several workshops on mathematics.
-- Organized Josephite Math Festival 2018 and BDMO (Bangladesh Math Olympiad) preliminary round.
+### Prefect
+**Adamjee Cantonment College**  (*2017 – 2019*)
+- Served as a bridge between the student body and the college administration
+- Enforced discipline and upheld college rules and regulations
+- Organized and coordinated events, including assemblies and ceremonies
 
-### Josephite Eco Earth Club 
-**Core Member**  (*2017 – 2019*)
-- Held various workshops on green energy and renewable energy.
-- Organized Josephite Eco Earth Festival 2018.
+## Traits
+- **Hard woking**
+- **Motivator**
+- **Leadership**
+- **Persuasive**
+
+## Hobbies
+- **Sports Programming**
+- **Playing Guitar**
+- **Watching Movies**
+- **Chess**
+- **Playing Video Games**
+- **Travelling**
+
+
