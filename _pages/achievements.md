@@ -24,4 +24,4 @@ permalink: /achievements/
 - **4th Position**, ASRRO ROBOCODER Programming Contest (Round 1), Chittagong, Bangladesh (2022)
 - **99th Position**, International Collegiate Programming Contest (ICPC): Dhaka Regional, Dhaka, Bangladesh (2022)
 - **Honorable Mention x4**, International Collegiate Programming Contest (ICPC): Preliminary, Dhaka, Bangladesh (2020-2023)
-- **Technical Scholarship x6**, For academic excellence in the class, Chittagong, Bangladesh (2020-2024)
+- **Technical Scholarship x6**, For academic excellence in the CSE department of CUET, Chittagong, Bangladesh (2020-2024)
