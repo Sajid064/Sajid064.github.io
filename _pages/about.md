@@ -23,7 +23,7 @@ redirect_from:
 
 <p align="justify">
 
-Hello, I'm Md. Sajid Alam Chowdhury, a final-year Computer Science undergraduate at CUET. I am passionate about exploring new technologies, with a focus on Computer Vision, Natural Language Processing (NLP), Digital Image Processing, and particularly research in adversarial attacks and defense mechanisms.
+I am a final-year Computer Science undergraduate at CUET. I am passionate about exploring new technologies, with a focus on Computer Vision, Natural Language Processing (NLP), Digital Image Processing, and particularly research in adversarial attacks and defense mechanisms.
 
 </p> 
  <!---
