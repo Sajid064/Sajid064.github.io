@@ -14,7 +14,7 @@ My broad research interests lie in the fields of Computer Vision and Natural Lan
 <br>
 <h1 style="border-bottom: 2px solid;">Publications</h1>
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=HwhiMM8AAAAJ" style="color: #4c00b0;" target="_blank">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=HwhiMM8AAAAJ" style="color: #990033;" target="_blank">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
