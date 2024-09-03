@@ -5,8 +5,16 @@ author_profile: true
 permalink: /projects/
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Font Awesome Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
 
-<h2 style="color: #990033;">DoctorSpot: A Doctor Suggesting and Disease Predicting Website (<i class="fa fa-github"></i>)</h2>
+<h2 style="color: #7600bc;">DoctorSpot: A Doctor Suggesting and Disease Predicting Website (<i class="fa fa-github"></i>)</h2>
 
 - *Developed a website using HTML, CSS, Bootstrap, JavaScript, MySQL, and PHP*
 - *Introduced a smart chatbot integrating OpenAI API for predicting diseases from the symptoms of users*
