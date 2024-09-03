@@ -4,7 +4,7 @@ author_profile: true
 permalink: /projects/
 ---
 
-<h1 style="border-bottom: 1px solid">Projects<\h1>
+<h1 style="border-bottom: 2px solid">Projects</h1>
 
 <head>
 <title>Font Awesome Icons</title>
