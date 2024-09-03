@@ -6,9 +6,8 @@ permalink: /projects/
 ---
 
 
-<h3>DoctorSpot: A Doctor Suggesting and Disease Predicting Website</h3>
+<h3 style="color: #990033;">DoctorSpot: A Doctor Suggesting and Disease Predicting Website</h3>
 
-### DoctorSpot: A Doctor Suggesting and Disease Predicting Website
 - *Developed a website using HTML, CSS, Bootstrap, JavaScript, MySQL, and PHP*
 - *Introduced a smart chatbot integrating OpenAI API for predicting diseases from the symptoms of users*
 - *Developed a convenient platform with features like doctor reviews, filtering, and appointment scheduling*
