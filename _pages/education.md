@@ -11,15 +11,14 @@ permalink: /education/
 _Bachelors in Computer Science and Engineering_  
 Study Period: <b>Feb 2020 - Present</b>  
 Supervisor: [Dr. Kaushik Deb](https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en)
-
-<br>
+  
 
 <h2 style="color: #4c00b0;">Adamjee Cantonment College</h2>
 
 _Higher Secondary School Certificate_  
 Study Period: <b>Jun 2017 - Jun 2019</b>  
 
-<br>
+  
 
 <h2 style="color: #4c00b0;">Ideal School and College</h2>
 
