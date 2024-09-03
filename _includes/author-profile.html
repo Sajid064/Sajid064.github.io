@@ -17,7 +17,9 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">|| CS Undergrad || Competitive Programmer ||<br>|| Computer Vision and NLP Enthusiast ||</p>{% endif %}
+    {% if author.bio %}<p class="author__bio" style="text-align: center;"><p>|| CS Undergrad ||</p>{% endif %}
+    {% if author.bio %}<p class="author__bio" style="text-align: center;"><p>|| Competitive Programmer ||</p>{% endif %}
+    {% if author.bio %}<p class="author__bio" style="text-align: center;"><p>|| Computer Vision and NLP Enthusiast ||{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
