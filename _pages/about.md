@@ -35,7 +35,7 @@ In addition to my research, I have strong skills in computer programming, with p
  <!---
  Previously, I worked as an Assistant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. 
 -->
-<b>Contact: 📧</b> <a href="mailto:{{ author.email }}"><font color="#990033">sajid.chowdhury009@gmail.com
+<b>Contact: 📧</b> <a href="mailto:{{ author.email }}"><font color="#990033">sajid.chowdhury009@gmail.com</a>
 
 <b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1Io2HW0OqdyXFOEljpsFTjeg_RLQ1a_EX/view?usp=sharing"><font color="#990033">CV</font></a>]
 
