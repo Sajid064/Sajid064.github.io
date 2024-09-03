@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 'Hello, this is Md. Sajid Alam Chowdhury'
+title: 'Hello, this is Sajid'
 excerpt: 'About me'
 author_profile: true
 redirect_from:
