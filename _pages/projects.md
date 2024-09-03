@@ -6,7 +6,7 @@ permalink: /projects/
 ---
 
 
-<h3 style="color: #990033;">DoctorSpot: A Doctor Suggesting and Disease Predicting Website</h3>
+<h2 style="color: #990033;">DoctorSpot: A Doctor Suggesting and Disease Predicting Website (<i class="fa fa-github"></i>)</h2>
 
 - *Developed a website using HTML, CSS, Bootstrap, JavaScript, MySQL, and PHP*
 - *Introduced a smart chatbot integrating OpenAI API for predicting diseases from the symptoms of users*
