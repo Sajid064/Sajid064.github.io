@@ -5,14 +5,11 @@ author_profile: true
 permalink: /projects/
 ---
 
-<!DOCTYPE html>
-<html>
 <head>
 <title>Font Awesome Icons</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body>
 
 <h2 style="color: #4c00b0;">DoctorSpot: A Doctor Suggesting and Disease Predicting Website (<i class="fa fa-github"></i>)</h2>
 
