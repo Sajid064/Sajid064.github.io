@@ -6,6 +6,7 @@ permalink: /projects/
 ---
 
 
+<h3>DoctorSpot: A Doctor Suggesting and Disease Predicting Website</h3>
 
 ### DoctorSpot: A Doctor Suggesting and Disease Predicting Website
 - *Developed a website using HTML, CSS, Bootstrap, JavaScript, MySQL, and PHP*
