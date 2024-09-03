@@ -1,9 +1,10 @@
 ---
-title: 'Education'
 excerpt: ''
 author_profile: true
 permalink: /education/
 ---
+<h1 style="border-bottom: 2px solid;">Education</h1>
+
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**  
 _Bachelors in Computer Science and Engineering_  
