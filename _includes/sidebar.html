@@ -1,7 +1,7 @@
 {% include base_path %}
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky" style="width: 35%; max-width: 450px; padding-left: 5%;">
+  <div class="sidebar sticky" style="width: 40%; max-width: 450px; padding-left: 5%;">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
