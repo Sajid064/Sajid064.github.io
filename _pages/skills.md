@@ -3,7 +3,8 @@ excerpt: ''
 author_profile: true
 permalink: /skills/
 ---
-
+  
+    
 <h1 style="border-bottom: 2px solid;">Programming/Technical Skills</h1>
 
 <!-- ## <font color="#00cc66"> Technical Skills </font> -->
@@ -15,6 +16,7 @@ permalink: /skills/
 <span style="color: #4c00b0; font-weight:bold;">Tools</span>         Jupyter, Git, LaTeX, VS Code
 </pre>
 
+  
 
 <h1 style="border-bottom: 2px solid;">Competitive Programming</h1>
 
