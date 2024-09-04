@@ -23,8 +23,8 @@ permalink: /skills/
 Solved more than 2000 problems in various online platforms as part of my preparation for onsite proramming contests such as ICPC, IUPC, NCPC, etc.
 
 <pre>
-<span style="color: #4c00b0; font-weight:bold;">Codeforces</span>   Handle: <a href="https://codeforces.com/profile/Sajid064" target="_blank" style="font-weight:bold; text-decoration:none; color: #990033;">Sajid064</a>, Max Rating: 1607 (Expert), Solve Count: 1000+ 
-<span style="color: #4c00b0; font-weight:bold;">CodeChef</span>     Handle: <a href="https://www.codechef.com/users/sajid_064" target="_blank" style="font-weight:bold; text-decoration:none; color: #990033;">sajid_064</a>, Max Rating: 2039 (5-Star), Solve Count: 100+ 
-<span style="color: #4c00b0;font-weight:bold;">AtCoder</span>      Handle: <a href="https://atcoder.jp/users/Sajid064" target="_blank" style="font-weight:bold;text-decoration:none; color: #990033;">Sajid064</a>, Max Rating: 926 (6-Kyu), Solve Count: 300+ 
-<span style="color: #4c00b0;font-weight:bold;">LightOJ</span>      Handle: <a href="https://lightoj.com/user/sajid064" target="_blank" style="font-weight:bold; text-decoration:none; color: #990033;">sajid064</a>, Solve Count: 50+
+<span style="color: #4c00b0; font-weight:bold;">Codeforces</span>   Handle: <a href="https://codeforces.com/profile/Sajid064" target="_blank" style="font-weight:bold; text-decoration:none; ">Sajid064</a>, Max Rating: 1607 (Expert), Solve Count: 1000+ 
+<span style="color: #4c00b0; font-weight:bold;">CodeChef</span>     Handle: <a href="https://www.codechef.com/users/sajid_064" target="_blank" style="font-weight:bold; text-decoration:none;">sajid_064</a>, Max Rating: 2039 (5-Star), Solve Count: 100+ 
+<span style="color: #4c00b0;font-weight:bold;">AtCoder</span>      Handle: <a href="https://atcoder.jp/users/Sajid064" target="_blank" style="font-weight:bold;text-decoration:none;">Sajid064</a>, Max Rating: 926 (6-Kyu), Solve Count: 300+ 
+<span style="color: #4c00b0;font-weight:bold;">LightOJ</span>      Handle: <a href="https://lightoj.com/user/sajid064" target="_blank" style="font-weight:bold; text-decoration:none; ">sajid064</a>, Solve Count: 50+
 </pre>
