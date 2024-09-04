@@ -54,7 +54,7 @@
     
     {% if post.citation and post.paperurl %}
       <p ><span style="font-weight: bold;"><i>Authors:</i></span>&nbsp;&nbsp; {{ post.citation }}</p>
-      <p ><span style="font-weight: bold;"><i>Paper URL:</i></span>&nbsp;&nbsp; <a href="{{ post.paperurl }}" target="_blank" style="font-weight: bold; text-decoration: none;">{{ post.paperurl }}</a></p>
+      <p ><span style="font-weight: bold;"><i>Paper URL:</i></span>&nbsp;&nbsp; <a href="{{ post.paperurl }}" target="_blank">{{ post.paperurl }}</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
