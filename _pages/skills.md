@@ -5,7 +5,7 @@ permalink: /skills/
 ---
 
 
-<h1 style="border-bottom: 2px solid;">Programming/Technical Skills</h1>
+<h1 style="border-bottom: 2px solid; text-align: left;">Programming/Technical Skills</h1>
 
 <!-- ## <font color="#00cc66"> Technical Skills </font> -->
 
@@ -18,7 +18,7 @@ permalink: /skills/
 
 <br>
 
-<h1 style="border-bottom: 2px solid;">Competitive Programming</h1>
+<h1 style="border-bottom: 2px solid; text-align: left;">Competitive Programming</h1>
 
 Solved more than 2000 problems in various online platforms as part of my preparation for onsite proramming contests such as ICPC, IUPC, NCPC, etc.
 
