@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 style="color: #4c00b0; text-align: left; font-size: larger">Hello, this is Sajid</h1>
+<h1 style="color: #4c00b0; text-align: left;">Hello, this is Sajid</h1>
 
 <!---
 <p align="justify">
