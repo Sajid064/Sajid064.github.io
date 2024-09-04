@@ -17,6 +17,7 @@ permalink: /skills/
 </pre>
 
   
+  
 
 <h1 style="border-bottom: 2px solid;">Competitive Programming</h1>
 
