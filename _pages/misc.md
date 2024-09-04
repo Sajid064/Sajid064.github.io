@@ -1,50 +1,56 @@
 ---
-title: 'Others'
 excerpt: ''
 author_profile: true
 permalink: /misc/
 ---
 
+<h1 style="border-bottom: 2px solid; text-align: left;">Certifications</h1>
 
-<!-- ##  -->
-## Certifications
+<h2 style="color: #4c00b0; text-align: left;">Convolutional Neural Networks</h2>
 
-### Convolutional Neural Networks
 *Deeplearning.AI (Mar 2024)*  
 - Gained proficiency in TensorFlow and Keras for building CNN models
 - Learned key CNN layers: Convolution, Pooling, Fully Connected
 - Explored advanced architectures like ResNets and Inception
 - Applied CNNs to image classification, object detection, and segmentation
 
-### Neural Networks and Deep Learning
+<h2 style="color: #4c00b0; text-align: left;">Neural Networks and Deep Learning</h2>
+
 *Deeplearning.AI (Mar 2024)* 
 - Mastered the basics of neural networks, including forward and backward propagation
 - Implemented gradient descent and optimization algorithms and explored activation functions like ReLU, sigmoid, and tanh
 - Built and trained deep neural networks for various tasks
 - Applied concepts such as regularization, dropout, and hyperparameter tuning
 
+  
 
-## Extracurricular Activities
+<h1 style="border-bottom: 2px solid; text-align: left;">Extracurricular Activities</h1>
 
-### Executive Member
+<h2 style="color: #4c00b0; text-align: left;">Executive Member</h2>
+
 **CUET Computer Club**  (*2020 – Present*)
 - Gained expertise in competitive programming
 - Participated in many onsite programming contests
 - Organized several programming competitions
 
-### Prefect
+
+<h2 style="color: #4c00b0; text-align: left;">Prefect</h2>
+
 **Adamjee Cantonment College**  (*2017 – 2019*)
 - Served as a bridge between the student body and the college administration
 - Enforced discipline and upheld college rules and regulations
 - Organized and coordinated events, including assemblies and ceremonies
 
-## Traits
+  
+<h1 style="border-bottom: 2px solid; text-align: left;">Traits</h1>
+
 - **Hard woking**
 - **Motivator**
 - **Leadership**
 - **Persuasive**
+  
 
-## Hobbies
+<h1 style="border-bottom: 2px solid; text-align: left;">Hobbies</h1>
 - **Sports Programming**
 - **Playing Guitar**
 - **Watching Movies**
