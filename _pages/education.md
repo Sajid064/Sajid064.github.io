@@ -3,6 +3,14 @@ excerpt: ''
 author_profile: true
 permalink: /education/
 ---
+
+<head>
+<title>Font Awesome Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+
 <h1 style="border-bottom: 2px solid;">Education</h1>
 
 
@@ -10,7 +18,7 @@ permalink: /education/
 
 _Bachelors in Computer Science and Engineering_  
 Study Period: <b>Feb 2020 - Present</b>  
-Supervisor: Dr. Kaushik Deb &nbsp;&nbsp; [<a href="https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en" target="_blank"><i class="fa fa-google-scholar" style= "color:black;"></i></a>]
+Supervisor: <span style="font-weight: bold">Dr. Kaushik Deb</span>&nbsp;&nbsp; [<a href="https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en" target="_blank"><i class="fa fa-google-scholar" style= "color:black;"></i></a>]
   
 
 <h2 style="color: #4c00b0;">Adamjee Cantonment College</h2>
