@@ -16,8 +16,7 @@ permalink: /skills/
 <span style="color: #4c00b0; font-weight:bold;">Tools</span>         Jupyter, Git, LaTeX, VS Code
 </pre>
 
-  
-  
+<br>
 
 <h1 style="border-bottom: 2px solid;">Competitive Programming</h1>
 
