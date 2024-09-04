@@ -1,12 +1,12 @@
 ---
-title: 'Honors and Awards'
 excerpt: ''
 author_profile: true
 permalink: /achievements/
 ---
+<h1 style="border-bottom: 2px solid;">Honors and Awards</h1>
+  
 
-
-### International
+<h2>International</h2>
 
 - **7th Position**, CLEF 2024 - CheckThat! Lab Task 1: Check-Worthiness Estimation, Grenoble, France (2024)
 - **7th Position**, AraFinNLP 2024 - Subtask 1: Multi-dialect Intent Detection, Bangkok, Thailand (2024)
@@ -14,8 +14,9 @@ permalink: /achievements/
 - **3rd Position**, CodeChef Starters 26 Division 4, India (2023)
 - **13th Position**, CodeChef Starters 33 Division 3, India (2023)
 - **28th Position**, CodeChef Starters 88 Division 2, India (2023)
-
-### Domestic
+  
+  
+<h2>Domestic</h2>
 
 - **Talent Pool Scholarship (81st Position)**, Secondary School Certificate Examination, Dhaka, Bangladesh (2017)
 - **Champion**, CUET Intra Junior Contest (Round 1), Chittagong, Bangladesh (2020)
