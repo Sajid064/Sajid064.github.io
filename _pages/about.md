@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: 'Hello, this is Sajid'
 excerpt: 'About me'
 author_profile: true
 redirect_from:
@@ -24,7 +23,7 @@ redirect_from:
 
 <p align="justify">
 
-I am a final-year Computer Science undergraduate at CUET, where I am pursuing my B.Sc. in Computer Science and Engineering under the supervision of <a href="https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en" style="text-decoration:none; font-weight:bold;">Dr. Kaushik Deb</a>. I am passionate about exploring new technologies, with a particular focus on Computer Vision, Natural Language Processing (NLP), and Digital Image Processing. My research centers on detecting and mitigating adversarial attacks, a critical area that aims to enhance the robustness and security of machine learning models.
+I am a final-year Computer Science undergraduate at CUET, where I am pursuing my B.Sc. in Computer Science and Engineering under the supervision of <a href="https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en" style="text-decoration:none;">Dr. Kaushik Deb</a>. I am passionate about exploring new technologies, with a particular focus on Computer Vision, Natural Language Processing (NLP), and Digital Image Processing. My research centers on detecting and mitigating adversarial attacks, a critical area that aims to enhance the robustness and security of machine learning models.
 </p> 
  <!---
  I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
