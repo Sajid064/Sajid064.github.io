@@ -10,7 +10,7 @@ permalink: /education/
 
 _Bachelors in Computer Science and Engineering_  
 Study Period: <b>Feb 2020 - Present</b>  
-Supervisor: [Dr. Kaushik Deb](https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en)
+Supervisor: Dr. Kaushik Deb &nbsp;&nbsp; [<a href="https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en" target="_blank"><i class="fa fa-google-scholar" style= "color:black;"></i></a>]
   
 
 <h2 style="color: #4c00b0;">Adamjee Cantonment College</h2>
