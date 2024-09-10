@@ -19,10 +19,10 @@ permalink: /achievements/
 <h2 style="color:#4c00b0">Domestic</h2>
 
 - **Talent Pool Scholarship (81st Position)**, Secondary School Certificate Examination, Dhaka, Bangladesh (2017)
-- **Champion**, CUET Intra Junior Contest (Round 1), Chittagong, Bangladesh (2020)
-- **2nd Runner up**, CUET Intra Junior Contest (Round 2), Chittagong, Bangladesh (2021)
+- **5th Position**, CUET Intra Junior Contest (Round 1), Chittagong, Bangladesh (2020)
+- **9th Position**, CUET Intra Junior Contest (Round 2), Chittagong, Bangladesh (2021)
 - **4th Position** CUET Intra Junior Contest (Round 3), Chittagong, Bangladesh (2022)
 - **4th Position**, ASRRO ROBOCODER Programming Contest (Round 1), Chittagong, Bangladesh (2022)
-- **99th Position**, International Collegiate Programming Contest (ICPC): Dhaka Regional, Dhaka, Bangladesh (2022)
-- **Honorable Mention x4**, International Collegiate Programming Contest (ICPC): Preliminary, Dhaka, Bangladesh (2020-2023)
+- **99th Position**, ICPC Asia Dhaka Regional Onsite Contest, Dhaka, Bangladesh (2022)
+- **Honorable Mention x4**, ICPC Asia Dhaka Regional Site Preliminary Contest, Dhaka, Bangladesh (2020-2023)
 - **Technical Scholarship x6**, For academic excellence in the CSE department of CUET, Chittagong, Bangladesh (2020-2024)
