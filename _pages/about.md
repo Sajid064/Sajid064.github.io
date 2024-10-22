@@ -37,5 +37,7 @@ In addition to my research, I have strong skills in computer programming, with p
 -->
 <b>Contact: 📧</b> <a href="mailto:{{ author.email }}" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0">sajid.chowdhury009@gmail.com</a>
 
-<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1EOetkZmCL0gk41bwfGjZHTFPaC7gdEXE/view?usp=sharing" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0;">CV</a>]
+<b>My latest CV: </b> [<a href="" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0;">CV</a>]
+
+<!-- https://drive.google.com/file/d/1EOetkZmCL0gk41bwfGjZHTFPaC7gdEXE/view?usp=sharing -->
 
