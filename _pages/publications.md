@@ -5,10 +5,11 @@ author_profile: true
 ---
 <h1 style="border-bottom: 2px solid;">Research Interest</h1>
 
-My broad research interests lie in the fields of Computer Vision and Natural Language Processing. Some of the specific areas I am eager to explore include:
+My broad research interests lie in the fields of Computer Vision and Natural Language Processing. Some of the specific areas I am interested include:
 - Adversarial Attacks and Defense Mechanisms, Robustness and Security of Machine Learning Models
-- Multilingual NLP, Efficient Utilization of Resources for Low- and Zero-Resource Languages
-- Digital Image Processing, Enhancing Image Quality and Detection Techniques
+- Multilingual NLP, Efficient Utilization of Resources for Low and Zero-Resource Languages
+- Multimodal Learning, Integration of Text, Image, Audio, and Video Modalities for Enhanced Understanding and Performance
+- Generative AI, Using Generative Models like GANs and DDPM for High-Quality Image Reconstruction and Synthesis.
 <!-- - Cross-Modal Learning, Integrating Visual, Textual, and Acoustic Data for Advanced AI Systems -->
 
 <br>
