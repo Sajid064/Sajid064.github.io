@@ -12,6 +12,15 @@ permalink: /projects/
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
+
+<h2 style="color: #4c00b0; text-align: left;">Bookify: A Doctor Suggesting and Disease Predicting Website&nbsp;&nbsp; [<a href = "https://github.com/Sajid064/Bookify"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
+
+- *Developed a website using the MERN stack (MongoDB, Express.js, React, Node.js)*
+- *Implemented a secure login and registration system using Firebase for user authentication*
+- *Developed a user-friendly platform with features such as adding to cart, checkout, searching and filtering books, and a user review system*
+- *Implemented an admin dashboard for adding, deleting, and managing books*
+
+
 <h2 style="color: #4c00b0; text-align: left;">DoctorSpot: A Doctor Suggesting and Disease Predicting Website&nbsp;&nbsp; [<a href = "https://github.com/Sajid064/DoctorSpot"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
 
 - *Developed a website using HTML, CSS, Bootstrap, JavaScript, MySQL, and PHP*
