@@ -13,7 +13,7 @@ permalink: /projects/
 </head>
 
 
-<h2 style="color: #4c00b0; text-align: left;">Bookify: A Doctor Suggesting and Disease Predicting Website&nbsp;&nbsp; [<a href = "https://github.com/Sajid064/Bookify"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
+<h2 style="color: #4c00b0; text-align: left;">Bookify: An Online Book Store Website&nbsp;&nbsp; [<a href = "https://github.com/Sajid064/Bookify"><i class="fa fa-github" style= "color:black;"></i></a>]</h2>
 
 - *Developed a website using the MERN stack (MongoDB, Express.js, React, Node.js)*
 - *Implemented a secure login and registration system using Firebase for user authentication*
