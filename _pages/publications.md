@@ -6,10 +6,10 @@ author_profile: true
 <h1 style="border-bottom: 2px solid;">Research Interest</h1>
 
 My broad research interests lie in the fields of Computer Vision and Natural Language Processing. Some of the specific areas I am interested include:
-- Adversarial Attacks and Defense Mechanisms, Robustness and Security of Machine Learning Models
-- Multilingual NLP, Efficient Utilization of Resources for Low and Zero-Resource Languages
-- Multimodal Learning, Integration of Text, Image, Audio, and Video Modalities for Enhanced Understanding and Performance
-- Generative AI, Using Generative Models like GANs and DDPM for High-Quality Image Reconstruction and Synthesis.
+- Adversarial Machine Learning and Anomaly Detection – studying adversarial attacks and defenses to improve the robustness and security of machine learning models.
+- Multilingual and Low-Resource NLP – developing methods to efficiently utilize resources for low- and zero-resource languages.
+- Multimodal Learning – integrating text, image, audio, and video modalities for improved representation and understanding.
+- Generative Models – applying models such as GANs and diffusion models for intra-modal and cross-modal tasks, including high-quality image reconstruction and synthesis.
 <!-- - Cross-Modal Learning, Integrating Visual, Textual, and Acoustic Data for Advanced AI Systems -->
 
 <br>

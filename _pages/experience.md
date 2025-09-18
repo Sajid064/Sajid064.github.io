@@ -18,10 +18,6 @@ permalink: /experience/
 
 Designation: <b>Software Engineer</b>  
 Job Period: <b>Jul 2025 - Present</b>  
-Projects: Mantix, Enterprise-Knowledge Cognitive Platform (E-KCP) 
-
-**Designation:** Software Engineer  
-**Job Period:** Jul 2025 – Present  
-**Projects:** Mantix, Enterprise-Knowledge Cognitive Platform (E-KCP)
+Projects: <b> Mantix, Enterprise-Knowledge Cognitive Platform (E-KCP) </b> 
 
 
