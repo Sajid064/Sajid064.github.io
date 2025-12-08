@@ -56,7 +56,7 @@
       <p ><span style="font-weight: bold;"><i>Authors:</i></span>&nbsp;&nbsp; {{ post.citation }}</p>
       <p ><span style="font-weight: bold;"><i>Paper URL:</i></span>&nbsp;&nbsp; <a href="{{ post.paperurl }}" target="_blank">{{ post.paperurl }}</a></p>
     {% elsif post.citation %}
-      <p>Authors: {{ post.citation }} </p>
+      <p><span style="font-weight: bold;"><i>Authors:</i></span>&nbsp;&nbsp; {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">here</a></p>
     {% endif %}
