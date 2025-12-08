@@ -13,16 +13,7 @@ My broad research interests lie in the fields of Trustworthy and Secure AI, Natu
 <!-- - Cross-Modal Learning, Integrating Visual, Textual, and Acoustic Data for Advanced AI Systems -->
 
 <br>
-<h1 style="border-bottom: 2px solid;">Underx Review</h1>
-{% include base_path %}
-
-{% for post in site.punder reversed %}
-
-{% endfor %}
-
-
-<br>
-<h1 style="border-bottom: 2px solid;">Publications</h1>
+<h1 style="border-bottom: 2px solid;">Research and Publications</h1>
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=HwhiMM8AAAAJ" style="color: #990033;" target="_blank">my Google Scholar profile</a>.</div>
 {% endif %}
