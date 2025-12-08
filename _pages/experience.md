@@ -16,8 +16,21 @@ permalink: /experience/
 
 <h2 style="color: #4c00b0; text-align: left;">Samsung R&D Institute Bangladesh (SRBD)</h2>
 
-Designation: <b>Software Engineer</b>  
-Job Period: <b>Jul 2025 - Present</b>  
-Projects: <b> Mantix, Enterprise-Knowledge Cognitive Platform (E-KCP) </b> 
+Designation: <b>Software Engineer</b><br>
+Job Period: <b>Aug 2025 – Present</b><br>
+Projects:
+<b>• Semantic Knowledge Graph Modeling Tool (Mantix)</b><br>
+<b>• Enterprise-Grade Knowledge Cognitive Platform (E-KCP)</b>
 
+<br><br>
+
+<h2 style="color: #4c00b0; text-align: left;">CUET ML Research Group</h2>
+
+Designation: <b>Research Assistant</b><br>
+Job Period: <b>Jan 2023 – Jul 2025</b><br>
+Projects:
+<b>• Semantic Textual Relatedness</b><br>
+<b>• Checkworthiness of Tweets/Transactions</b><br>
+<b>• Arabic Banking Intention Detection</b><br>
+<b>• Multimodal Misogynistic Memes Detection</b>
 
