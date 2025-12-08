@@ -13,7 +13,7 @@ My broad research interests lie in the fields of Trustworthy and Secure AI, Natu
 <!-- - Cross-Modal Learning, Integrating Visual, Textual, and Acoustic Data for Advanced AI Systems -->
 
 <br>
-<h1 style="border-bottom: 2px solid;">Under Review</h1>
+<h1 style="border-bottom: 2px solid;">Underx Review</h1>
 {% include base_path %}
 
 {% for post in site.punder reversed %}
