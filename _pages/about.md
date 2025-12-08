@@ -26,7 +26,7 @@ I am a Software Engineer at Samsung R&D Institute Bangladesh (SRBD). Currently, 
 </p>
 
 <p align="justify">
-I have completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET) under the supervision of <a href="https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en" target="_blank" style="text-decoration:none;">Dr. Kaushik Deb</a>. My broader research interests lie in Machine Learning, particularly in Computer Vision, Natural Language Processing, and Multimodal Learning. Within these areas, I am enthusiastic about adversarial machine learning, anomaly detection, generative models, and low-resource and multilingual NLP.
+I have completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET) under the supervision of <a href="https://scholar.google.com/citations?user=du_bCPIAAAAJ&hl=en" target="_blank" style="text-decoration:none;">Dr. Kaushik Deb</a>. My broader research interests lie in <b>Trustworthy & Secure AI/ML, Natural Language Processing, and Computer Vision</b>. Within these areas, I am enthusiastic about adversarial machine learning, anomaly detection, generative models, and low-resource and multilingual NLP.
 </p>
 
 <p align="justify">
