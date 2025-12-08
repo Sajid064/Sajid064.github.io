@@ -22,7 +22,7 @@ redirect_from:
 <!-- --- -->
 
 <p align="justify">
-I am a Software Engineer at Samsung R&D Institute Bangladesh (SRBD). Currently, I am working on the Semantic Knowledge Graph Modeling Tool project in collaboration with Oxford Semantic Technologies (UK), which enables intuitive ontology modeling, visualization, data mapping, and advanced reasoning using RDFox.
+I am a <b>Software Engineer at Samsung R&D Institute Bangladesh (SRBD)</b>. Currently, I am working on the Semantic Knowledge Graph Modeling Tool project in collaboration with Oxford Semantic Technologies (UK), which enables intuitive ontology modeling, visualization, data mapping, and advanced reasoning using RDFox.
 </p>
 
 <p align="justify">
