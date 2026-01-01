@@ -36,7 +36,7 @@ Alongside my research, I have strong programming skills with proficiency in C, C
 
 <b>Contact: 📧</b> <a href="mailto:{{ author.email }}" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0">sajid.chowdhury009@gmail.com</a>
 
-<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1z4FS01OJ_SqcZw1td7ov3g3yy2RYbB-f/view?usp=sharing" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0;">CV</a>]
+<b>My latest CV: </b> [<a href="https://drive.google.com/file/d/1Bxr0TuQaFr7EHqJg7s4B24y5Ka9XI99t/view?usp=sharing" target="_blank" style="text-decoration:none; font-weight:bold; color: #4c00b0;">CV</a>]
 
 <!-- https://drive.google.com/file/d/1EOetkZmCL0gk41bwfGjZHTFPaC7gdEXE/view?usp=sharing -->
 
